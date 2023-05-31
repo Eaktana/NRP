@@ -2,6 +2,6 @@
 int main(){
     int x = 1 ;
     int y = 2 ;
-    printf("abs");
+    printf("%d + %d = %d", x, y, x + y );
     return 0  ;
 }
